@@ -13,4 +13,4 @@ phases:
     commands:
 
       # Use AWS SAM to package the application by using AWS CloudFormation
-      - sceptre valiodate
+      - sceptre validate
